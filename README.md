@@ -1,5 +1,8 @@
 ## Sencha Ext JS SDK and Sencha Cmd
-Everything you need to create Ext JS applications.
+Get the image from [Docker Hub](https://hub.docker.com/r/pointw/sencha-extjs/):
+```docker pull pointw/sencha-extjs```
+
+This Dockerfile creates an image with everything you need to create Ext JS applications.
 * Ext JS SDK (v6.2.0.981 GPL)
 * Sencha CMD (v6.5.3.6)
 
